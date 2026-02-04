@@ -26,3 +26,10 @@ En la tecera forma normal, se genera un identificador para categoria y editorial
 ![alt text](image-3.png)
 
 El modelo conceptual muestra vagamente la relacion entre cada uno de los actores en cuanto al libro
+
+## Modelo UML
+
+![alt text](image-4.png)
+
+En el modelo uml se muestra la relacion especifica de los atributos de cada tabla, en la imagen se pueden ver las primary key seteadas con un icono de una llave al lado del atributo, los datos obligatorios con un NN representando un not null y las llaves foraneas reperesentadas con un icono de cadena para mostrar la relacion.
+
