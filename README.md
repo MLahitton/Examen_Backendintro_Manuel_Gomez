@@ -19,3 +19,10 @@ En la segunda forma normal se generan los id para venta y libro para generar la 
 ![alt text](image-2.png)
 
 En la tecera forma normal, se genera un identificador para categoria y editorial ya que estos casos se presenta que una editorial puede publicar varios libros y en una categoria pueden entrar muchos lobros, por ende se elimina la dependencia transitiva
+
+
+## Conceptual
+
+![alt text](image-3.png)
+
+El modelo conceptual muestra vagamente la relacion entre cada uno de los actores en cuanto al libro
